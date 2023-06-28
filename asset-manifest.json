@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-1---Copie%20/static/css/main.bfc1d264.css",
+    "main.js": "/react-portfolio-1---Copie%20/static/js/main.49735e41.js",
+    "static/media/me.png": "/react-portfolio-1---Copie%20/static/media/me.bc7b3403a051e6e5a4b1.png",
+    "static/media/portfolio1.jpg": "/react-portfolio-1---Copie%20/static/media/portfolio1.8f6cb68457dda30d4af1.jpg",
+    "static/media/internship.jpg": "/react-portfolio-1---Copie%20/static/media/internship.dce9bcfcbc02780b5129.jpg",
+    "static/media/me-about.jpeg": "/react-portfolio-1---Copie%20/static/media/me-about.357c7c1875941feac71a.jpeg",
+    "static/media/pooproject.jpg": "/react-portfolio-1---Copie%20/static/media/pooproject.6cccabb1ecab1277f36d.jpg",
+    "static/media/CV_Lyes_MERAKEB_EN.pdf": "/react-portfolio-1---Copie%20/static/media/CV_Lyes_MERAKEB_EN.74dc8b71030ca30d8dbd.pdf",
+    "index.html": "/react-portfolio-1---Copie%20/index.html",
+    "main.bfc1d264.css.map": "/react-portfolio-1---Copie%20/static/css/main.bfc1d264.css.map",
+    "main.49735e41.js.map": "/react-portfolio-1---Copie%20/static/js/main.49735e41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfc1d264.css",
+    "static/js/main.49735e41.js"
+  ]
+}
